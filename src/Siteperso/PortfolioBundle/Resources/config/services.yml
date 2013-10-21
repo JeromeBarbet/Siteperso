@@ -1,0 +1,7 @@
+parameters:
+#    siteperso_portfolio.example.class: Siteperso\PortfolioBundle\Example
+
+services:
+#    siteperso_portfolio.example:
+#        class: %siteperso_portfolio.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

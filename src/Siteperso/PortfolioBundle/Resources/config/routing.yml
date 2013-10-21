@@ -1,0 +1,7 @@
+siteperso_portfolio_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: SitepersoPortfolioBundle:Default:index }
+
+HelloTheWorld:
+    pattern:  /cv
+    defaults: { _controller: SitepersoPortfolioBundle:Portfolio:index }

@@ -1,0 +1,4 @@
+siteperso_portfolio:
+    resource: "@SitepersoPortfolioBundle/Resources/config/routing.yml"
+    prefix:   /
+
